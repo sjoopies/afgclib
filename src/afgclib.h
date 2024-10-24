@@ -6,6 +6,8 @@
 
 void print_hello_world(void);
 
+// Add your library code here
+
 int add_two_numbers(int a, int b);
 
 #endif // AFGCLIB_H
