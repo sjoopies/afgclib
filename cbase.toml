@@ -1,0 +1,10 @@
+[metadata]
+name = "afgclib"
+version = "0.1.0"
+type = "lib"
+
+[dependencies]
+
+[compiler]
+path = "/usr/bin/clang"
+args = []
