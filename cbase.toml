@@ -8,3 +8,4 @@ type = "lib"
 [compiler]
 path = "/usr/bin/clang"
 args = []
+src = ["src"]
